@@ -9,6 +9,7 @@ For example, check out:
 - [Holberton Challenge]
 - [My First Website]
 
+[nebuloid.dev]: https://nebuloid.dev/
 [projects.nebuloid.dev]: https://projects.nebuloid.dev/
 [Rotten Potatoes]: https://projects.nebuloid.dev/rotten-potatoes/
 [Holberton Challenge]: https://projects.nebuloid.dev/holberton-challenge/
